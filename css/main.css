@@ -728,6 +728,9 @@ input[type=radio]:checked + .review-mark-label {
   color: #fff;
 
   margin-left: 20px;
+
+  max-width: 150px;
+  word-wrap: break-word;
 }
 
 .setup-similar-list {
